@@ -7,6 +7,8 @@ const resetData = () => {
   data = [
     {
       id: nanoid(5),
+      // id: 0,
+      //id is "Tb0kQ"
       title: "The Godfather",
       director: "Francis Ford Coppola",
       metascore: 100,
@@ -15,6 +17,8 @@ const resetData = () => {
     },
     {
       id: nanoid(5),
+      // id: 1,
+      //id is "Zj_0z"
       title: "Star Wars",
       director: "George Lucas",
       metascore: 92,
@@ -23,6 +27,8 @@ const resetData = () => {
     },
     {
       id: nanoid(5),
+      // id: 2,
+      //id is 'mbac_
       title: "The Lord of the Rings: The Fellowship of the Ring",
       director: "Peter Jackson",
       metascore: 92,
@@ -31,6 +37,8 @@ const resetData = () => {
     },
     {
       id: nanoid(5),
+      // id: 3,
+      //id is "zwV2G"
       title: "Terminator 2: Judgement Day",
       director: "James Cameron",
       metascore: 94,
@@ -39,6 +47,8 @@ const resetData = () => {
     },
     {
       id: nanoid(5),
+      // id: 4,
+      //id is "XIQ4N"
       title: "Dumb and Dumber",
       director: "The Farely Brothers",
       metascore: 76,
@@ -47,6 +57,8 @@ const resetData = () => {
     },
     {
       id: nanoid(5),
+      // id: 5,
+      //id is "gVUCt"
       title: "Tombstone",
       director: "George P. Cosmatos",
       metascore: 89,
