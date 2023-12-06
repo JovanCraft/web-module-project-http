@@ -57,21 +57,21 @@ You should now have your app running in Chrome on `http://localhost:3000`
 
 - [x] Identify the component that holds the button needed for deletion.
 
-- [ ] In `App.js` complete the `deleteMovie` function, which requests the deletion to the server by movie id, and updates the movies list.
+- [x] In `App.js` complete the `deleteMovie` function, which requests the deletion to the server by movie id, and updates the movies list.
 
-- [ ] Pass down `deleteMovie` into the appropriate component and wire it to a click handler.
+- [x] Pass down `deleteMovie` into the appropriate component and wire it to a click handler.
 
-- [ ] When your delete request is complete redirect the user to the `/movies` route.
+- [x] When your delete request is complete redirect the user to the `/movies` route.
 
 #### Adding a Movie
 >
 > *Alright! You ready! Let's see you use the skills of the previous steps to build a crud function from start to finish.*
 
-- [ ] Use `EditMovieForm.js` as a model to build an `AddMovieForm` component from scratch. The component should hold all the attributes of a new movie in local state.
+- [x] Use `EditMovieForm.js` as a model to build an `AddMovieForm` component from scratch. The component should hold all the attributes of a new movie in local state.
 
-- [ ] Add in a route that allows access to `AddMovieForm`.
+- [x] Add in a route that allows access to `AddMovieForm`.
 
-- [ ] Locate the part of the ui that should redirect to your new `AddMovieForm`. Make that button works as expected.
+- [x] Locate the part of the ui that should redirect to your new `AddMovieForm`. Make that button works as expected.
 
 - [ ] In `AddMovieForm,` add an event handler for form submission. When the form is submitted, run the appropriate request for adding a movie with the component's state values.
 
