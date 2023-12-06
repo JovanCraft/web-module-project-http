@@ -6,7 +6,9 @@ import axios from 'axios';
 
 const EditMovieForm = (props) => {
   const navigate = useNavigate();
+  const { id } = useParams();
 
+  console.log('current id:', id)
   const { setMovies } = props;
   const [movie, setMovie] = useState({
     title: "",
