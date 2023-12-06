@@ -43,19 +43,19 @@ You should now have your app running in Chrome on `http://localhost:3000`
 
 - [x] We need to be able to load in the current movie's attributes into our local form state. When `EditMovieForm` mount, retrieve our current id's movie from the api and save the data returned to local state.
 
-- [ ] At this point, nothing happens when the edit form is submitted. Add in the api call needed to update the server with our updated movie data.
+- [x] At this point, nothing happens when the edit form is submitted. Add in the api call needed to update the server with our updated movie data.
 
-- [ ] Don't forget to make sure that your server data and your local state are in sync! Make any changes needed to the edit route to give the edit form access to App's `setMovies` method.
+- [x] Don't forget to make sure that your server data and your local state are in sync! Make any changes needed to the edit route to give the edit form access to App's `setMovies` method.
 
-- [ ] Now that we have access to `setMovies`, made sure the updated list of movies is saved to our global state.
+- [x] Now that we have access to `setMovies`, made sure the updated list of movies is saved to our global state.
 
-- [ ] Redirect the user to the currently edited movie's individual info page.
+- [x] Redirect the user to the currently edited movie's individual info page.
 
 #### Deleting a Movie
 >
 > *You added in a CRUD feature! Good job! Now let's get deleted squared away...*
 
-- [ ] Identify the component that holds the button needed for deletion.
+- [x] Identify the component that holds the button needed for deletion.
 
 - [ ] In `App.js` complete the `deleteMovie` function, which requests the deletion to the server by movie id, and updates the movies list.
 
