@@ -24,3 +24,7 @@ const DeleteMovieModal = () => {
 }
 
 export default DeleteMovieModal;
+
+
+
+
