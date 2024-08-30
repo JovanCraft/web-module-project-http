@@ -9,3 +9,6 @@ const MovieFooter = (props) => {
 }
 
 export default MovieFooter;
+
+
+
