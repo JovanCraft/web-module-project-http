@@ -18,4 +18,3 @@ const MovieHeader = () => {
 export default MovieHeader;
 
 
-
